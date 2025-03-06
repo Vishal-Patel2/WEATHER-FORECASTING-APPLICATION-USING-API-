@@ -20,3 +20,18 @@ This Weather Forecasting Application provides real-time weather updates using th
    ```bash
    git clone https://github.com/Vishal-Patel2/WEATHER-FORECASTING-APPLICATION-USING-API.git
    cd WEATHER-FORECASTING-APPLICATION-USING-API
+   ```
+## Contact
+
+If you have any questions or suggestions, please reach out:
+
+- Email: [vishalpatell0.2219@gmail.com](mailto:vishalpatell0.2219@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vishal-patel22/)
+
+## Just for Laughs
+
+Why do programmers prefer dark mode ?
+
+Because light attracts bugs! 🐛💻
+
+Happy coding, and may your code be bug-free! 😊   
